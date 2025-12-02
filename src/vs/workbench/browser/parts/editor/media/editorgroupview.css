@@ -1,0 +1,4 @@
+	gap: 24px;
+}
+
+.monaco-workbench .part.editor > .content .editor-group-container:not(.empty) > .editor-group-watermark {
